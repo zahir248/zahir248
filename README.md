@@ -6,7 +6,7 @@ Open to full-stack roles in the Klang Valley, hybrid or remote, and to freelance
 
 ### Live work
 
-- **[mySekilas](https://mysekilas.onrender.com/)**: interactive map of Malaysia's elected representatives, with live news from 21 portals grouped by story using Gemini embeddings. Laravel, Leaflet.
+- **[mySekilas](https://iesb.com.my/mysekilas/)**: interactive map of Malaysia's elected representatives, with live news from 21 portals grouped by story using Gemini embeddings. Laravel, Leaflet.
 - **[Uros](https://play.google.com/store/apps/details?id=com.uros.zahir)**: personal finance, notes and diary app. Flutter on Android, React on the [web](https://uros-mu.vercel.app/), one Spring Boot API with rotating refresh tokens and two-step verification.
 - **[NUJUM](https://iesb.com.my/nujum/)**: AI report writer for PR teams, with document Q&A that cites its sources. Built at Intensiti Elemen. Laravel, Gemini, OpenAI.
 - **[BINA e-ticketing](https://iesb.com.my/Bina2026/)**: registration, online payment and digital tickets for a construction industry conference. Laravel, ToyyibPay, Stripe.
